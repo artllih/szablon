@@ -133,7 +133,7 @@ int main(){
     listaString.push("japppko");
     listaString.push("banananana");
     listaString.push("winogrono");
-    cout<<"Lista stringow(nie majtki): ";
+    cout<<"Lista stringow: ";
     listaString.display();
     
     return 0;
